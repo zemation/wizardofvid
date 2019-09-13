@@ -2,4 +2,4 @@
 
 ### Contents:
 
-1. How to use.
+This program is currently on hold.  
