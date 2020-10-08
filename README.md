@@ -1,4 +1,4 @@
- # Zemation Studios Wizard of Vid Slackbot
+ # Zemation Media - Wizard of Vid Slackbot
 
 ### Contents:
 
